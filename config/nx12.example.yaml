@@ -1,0 +1,5 @@
+nx:
+  version: "12"
+  python: "3.6.1"
+exchange:
+  root: "./exchange"
